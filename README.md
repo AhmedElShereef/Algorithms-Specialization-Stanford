@@ -1,2 +1,2 @@
 # Algorithms-Specialization-Stanford
-Coursera's Algorithms Specialization
+Algorithms Specialization-Coursera
